@@ -2,9 +2,10 @@
 
 You might want to find out more information at my website: https://robodd.github.io/site/
 
-Here are some ideas to get you started:
 
 <!--
+
+Here are some ideas to get you started:
 - 🔭 I’m currently working on Bimanual Manipulation
 - 🌱 I’m currently learning Dynamical Systems
 - 👯 I’m looking to collaborate on ...
@@ -14,6 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![RoboDD's GitHub stats](https://github-readme-stats.vercel.app/api?username=robodd)](https://github.com/robodd/github-readme-stats&hide_rank=true)
 
