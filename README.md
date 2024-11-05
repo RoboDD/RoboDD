@@ -1,7 +1,8 @@
 # About
 
+<!--
 <img src="https://bristolflightlab.com/assets/images/uob.png" width = "20%" height = "20%" div align=center /> <img src="https://bristolflightlab.com/assets/images/FlightLabWhite.png" width = "16%" height = "16%" div align=center /> <img src="brl_white.png" width = "9%" height = "9%" div align=center />
-
+-->
 👋 Hi there! My name is Ziniu WU. I am a PhD student in Robotics at the University of Bristol (UoB) and affiliated with the Bristol Robotics Laboratory (BRL). I am supervised by Dr. Bahadir Kocer and Prof. Arthur Richards. My research focuses on Continual Learning for Dynamical Systems to enhance their adaptation and robustness in unconstructed and dynamic environments.
 
 You might want to find out more information at my website: [ziniuw.com](https://ziniuw.com/)
